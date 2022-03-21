@@ -1,0 +1,50 @@
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\DSC.exe.config
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\DSC.exe
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\DSC.pdb
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\itextsharp.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\itextsharp.xml
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.csproj.AssemblyReference.cache
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.frmDSC.resources
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.Properties.Resources.resources
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.csproj.GenerateResource.cache
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.csproj.CoreCompileInputs.cache
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.csproj.CopyComplete
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.exe
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.pdb
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\NovaNet.Utils.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\Interop.ClearImage.dll
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\NovaNet.Utils.pdb
+C:\Users\SandhiS\Downloads\DSC\DSC\bin\Debug\NovaNet.Utils.dll.config
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.frmMain.resources
+C:\Users\SandhiS\Downloads\DSC\DSC\obj\Debug\DSC.About.resources
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\DSC.exe.config
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\DSC.exe
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\DSC.pdb
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\itextsharp.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\NovaNet.Utils.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Syncfusion.Licensing.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Interop.ClearImage.dll
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\itextsharp.xml
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\NovaNet.Utils.pdb
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\NovaNet.Utils.dll.config
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.csproj.AssemblyReference.cache
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.About.resources
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.frmDSC.resources
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.frmMain.resources
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.Properties.Resources.resources
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.csproj.GenerateResource.cache
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.csproj.CoreCompileInputs.cache
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.csproj.CopyComplete
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.exe
+D:\Sandhi Software New\sandhi\DSC Update\DSC\DSC\obj\Debug\DSC.pdb
